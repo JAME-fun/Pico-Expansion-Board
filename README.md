@@ -9,3 +9,9 @@ The Pico Expansion board is a PCB with built in things such as: OLED, 2 Push But
 | 1x4 Pin Header | 1 |
 | 6 x 6 x 5mm Tactile Push Buttons | 2 |
 
+## License
+
+This project is dual-licensed to separate the hardware and software components:
+
+* **Hardware designs and documentation** in the `/hardware` directory are licensed under the [CERN Open Hardware Licence v2](hardware/LICENSE_CERN.md) (choose your specific variant: S, W, or P).
+* **Software and sample code** in the `/software` directory are licensed under the [MIT License](software/LICENSE_MIT.md).
