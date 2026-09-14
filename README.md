@@ -14,4 +14,4 @@ The Pico Expansion board is a PCB with built in things such as: OLED, 2 Push But
 This project is dual-licensed to separate the hardware and software components:
 
 * **Hardware designs and documentation** in the `/hardware` directory are licensed under the [CERN Open Hardware Licence v2](hardware/LICENSE_CERN.md) (choose your specific variant: S, W, or P).
-* **Software and sample code** in the `/firmware` directory are licensed under the [MIT License](software/LICENSE_MIT.md).
+* **Software and sample code** in the `/firmware` directory are licensed under the [MIT License](firmware/LICENSE_MIT.md).
